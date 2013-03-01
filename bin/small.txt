@@ -1,0 +1,11 @@
+color 0 0 0
+square 100 100 100
+circle 248 248 31
+color 0 0 204
+filledcircle 129 240 31
+square 210 134 68
+color 0 255 0
+rectangle 46 322 16 178
+filledrectangle 25 355 36 12
+color 255 102 102
+line 120 120 300 300
